@@ -1,0 +1,7 @@
+{
+  "user": "2",
+  "name": "test_user",
+  "tenant": "2",
+  "scope": [ "tenant" ],
+  "auth": []
+}
