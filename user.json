@@ -1,7 +1,7 @@
 {
-  "user": "2",
+  "user": "100",
   "name": "test_user",
-  "tenant": "2",
+  "tenant": 20,
   "scope": [ "tenant" ],
   "auth": []
 }
